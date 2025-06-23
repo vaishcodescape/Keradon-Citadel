@@ -15,6 +15,7 @@ This repository is organized as a monorepo with the following components:
 ## 🛠️ Tech Stack
 
 ### Frontend
+- **Electron.js** - For Cross Native Desktop Development
 - **Next.js** - React framework for production
 - **TypeScript** - Type-safe JavaScript development
 - **Tailwind CSS** - Utility-first CSS framework
