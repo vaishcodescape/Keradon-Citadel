@@ -22,7 +22,6 @@ This repository is organized as a monorepo with the following components:
 
 ### Backend
 - **Supabase** - Supabase for database
-- **FastAPI** - FastAPI for LLM integration
 
 ## Auth
 - **Next.Auth** -  For secure user Authentication
